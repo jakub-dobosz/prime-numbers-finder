@@ -11,6 +11,7 @@ import java.util.stream.Collectors;
 
 @Service
 public class PrimeNumbersServiceImpl implements PrimeNumbersService {
+
     @Override
     public Set<Integer> findAndSortFrom(List<Integer> numbers) {
         return numbers.stream()
