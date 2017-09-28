@@ -1,4 +1,4 @@
-package com.dynatrace.resttask;
+package com.dynatrace.resttask.config;
 
 import com.dynatrace.resttask.client.DynatraceClient;
 import com.dynatrace.resttask.client.DynatraceRestClient;

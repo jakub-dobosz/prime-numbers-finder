@@ -1,4 +1,4 @@
-package com.dynatrace.resttask;
+package com.dynatrace.resttask.config;
 
 import lombok.Getter;
 import lombok.Setter;
